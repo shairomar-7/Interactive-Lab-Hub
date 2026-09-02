@@ -2,9 +2,9 @@
 
 _This project is to be done in teams of 2._
 
-**NAME OF BOTH COLLABORATOR(S) Omar Shair, Yangchen Jin
+**NAME OF BOTH COLLABORATOR(S) HERE:** Yangchen Jin, Omar Shair 
 
-**THE MASTERWORK YOU DREW FROM THE HAT:**
+**THE MASTERWORK YOU DREW FROM THE HAT:** The Traffic Light
 
 ---
 
@@ -92,17 +92,13 @@ the interaction*:
 **Describe your masterwork here, in your own words. What is the core interaction
 someone would recognize it by?**
 
-**
-The first traffic light was created in London in 1868 for horse carousels. It only had two colors: red and green gas lamps at night. It was manually operated by a police constable for managing horse-drawn traffic and pedestrians. The 3 colors, red, yellow, and green weren't invented for road traffic — they were borrowed from the railroads, which had used colored signal lights since the 1830s.
+** The first traffic light was created in London in 1868 for horse carousels. It only had two colors: red and green gas lamps at night. It was manually operated by a police constable for managing horse-drawn traffic and pedestrians. The 3 colors, red, yellow, and green weren't invented for road traffic — they were borrowed from the railroads, which had used colored signal lights since the 1830s.
 
-William Potts, a Detroit police officer, created the modern three-color traffic light in 1920 for automobile drivers. The amber light was added specifically because two-color signals didn't give motorists at higher speeds enough warning to stop safely. 
+William Potts, a Detroit police officer, created the modern three-color traffic light in 1920 for automobile drivers. The amber light was added specifically because two-color signals didn't give motorists at higher speeds enough warning to stop safely.
 
-- The colors (Red, Green, Amber) are inputs to the user. Based on the color, the user will respond with a given action. For example, when the color is green, the user can go; or when red, the user must stop.
-- Pedestrians and automobile drivers are present. The color of the traffic light dictates the user's actions.
-- The piece is famous for managing the traffic and movement of pedestrians and drivers within a given intersection of two or more roads. It, as a result of proper management, ensures the safety of the public. Strengths are public safety, and the weakness is traffic jam due to static traffic light schedules. Another weakness could be the reliance on the traffic lights - if they no longer operate, our users can't safely interact with it. 
-**
-
-
+The colors (Red, Green, Amber) are inputs to the user. Based on the color, the user will respond with a given action. For example, when the color is green, the user can go; or when red, the user must stop.
+Pedestrians and automobile drivers are present. The color of the traffic light dictates the user's actions.
+The piece is famous for managing the traffic and movement of pedestrians and drivers within a given intersection of two or more roads. It, as a result of proper management, ensures the safety of the public. Strengths are public safety, and the weakness is traffic jam due to static traffic light schedules. Another weakness could be the reliance on the traffic lights - if they no longer operate, our users can't safely interact with it. **
 
 ## Part A. Plan
 
@@ -116,6 +112,10 @@ For your masterwork, reconstruct the interaction as a scene:
 - **Goals:** What is each player trying to do?
 
 **Describe your setting, players, activity, and goals here.**
+- **Setting:** This interaction happens on the road at a crossing or intersection.
+- **Players:** Most of the time, Pedestrians, motobike/bike riders, and cars.
+- **Activity:** When players see the red light, they will stop. When they see the yellow light, they know it's ready to go. When they see the green light, they know they can move on and cross, so they will start walking.
+- **Goals:** Everyone is trying to get to their destination by crossing the road.
 
 Now **sketch a 3 storyboards** of the interaction you are recreating. (The number may depend on the thing you drew, but stretch your thinking!) They
 don't need to be beautiful, but they must capture and communicate not only the behavior of the light, but how it affects
@@ -124,9 +124,15 @@ and the people around it. If you're new to storyboarding, read
 
 **Include pictures of your storyboards here.**
 
+[Lab 1_Story Board.pdf](https://github.com/user-attachments/files/31624246/Lab.1_Story.Board.pdf)
+
 Use the storyboards to decide what interaction to prototype.
 
 **Summarize the feedback you got here.**
+
+From the storyboard we drew, we derived three main events that show the three functions of the traffic light. First is the red light, which means
+stop. Second is the yellow light, which means the light gonna be change to green, people can be ready to go. 
+The last is a green light, which means people can safely cross the road.
 
 ## Part B. Act out the Interaction
 
@@ -136,10 +142,16 @@ it aloud.
 
 **Are there things that seemed better on paper than when acted out?**
 
+It’s difficult to illustrate the interaction of crossing the street on paper, but it can be portrayed very vividly in real life.
+
 **Did new ideas about the piece surface once you were on your feet?**
+
+We're considering whether we should introduce more variables, such as multiple traffic lights or having someone act as a car crossing the street.
 
 **Are there key moments in the interaction where things could go in a different direction?**
 Iterate your storyboards to capture key non-sequential aspects of the interaction. 
+
+It is possible. For example, a pedestrian might be looking at their phone and miss the green light, or ignore the red light.
 
 ## Part C. Prototype the Light (light first!)
 
@@ -166,6 +178,10 @@ video feed of whichever scene you want to capture.)
 
 **Include your first attempts at recording the wizarded set-up here.**
 
+We used the App: Traffic lights to help us simulate the effect. It can auto change the light color in specific time frame.
+
+<img width="100" height="200" alt="b3ed0c646911fc80db8567b681d5d2dd" src="https://github.com/user-attachments/assets/1275ceb9-8493-4f44-b335-0161633a419f" />
+
 ## Part E. (optional) Costume the Device
 
 Only now should you worry about what the device looks like. Costume your phone so it reads
@@ -187,6 +203,12 @@ the top of this lab: a viewer who knows the piece should recognize it; a viewer
 who doesn't should come away understanding what it's famous for. How might you illustrate the non-sequential aspects of the interaction in the sketch?
 
 **Include your video here.**
+
+https://youtu.be/_Ae3ooEInDg?is=96d1vOwXOpMAWMup
+
+https://youtu.be/kv82JwIRP2Y?is=swmY_6droZx5jsoQ
+
+Thank you for Omar, Yangchen and the App: Traffic lights
 
 **Please indicate who you collaborated with on this lab.** Be generous in
 acknowledging their contributions, and credit any other influences (YouTube,
