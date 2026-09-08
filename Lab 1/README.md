@@ -230,6 +230,21 @@ wasn't clear.
 **Who were the other groups you kibitzed with? Add links to their project pages here.**
 **Summarize the feedback you got from your partners here.**
 
+Vasudha Devkota's Group
+https://github.com/vd269-dot/Vasudha-Lab-Hub/tree/Fall2026/Lab%201
+
+Rohil Saraf's Group
+https://github.com/rohilsaraf97/Interactive-Lab-Hub/blob/Fall2026/Lab%201/README.md
+
+Zhimeng Zhang's Group
+https://github.com/alinappatel/Alina---Lab-hub-/blob/Fall2026/Lab%201/README.md
+
+Summarized Feedback:
+
+The storyboard, captions, and videos were clear, and the second video communicated the concept more effectively. 
+The red-light/green-light interaction felt too obvious, so we could explore more varied reactions, such as someone refusing to follow the rule or, when they are angry, not wanting to follow it. 
+The traffic light should also be larger, filling the entire screen. Creating the interaction in a more abstract way using motion/body sensors could be another approach.
+
 ## Remix, Update, or Critique the Master
 
 Now that you understand your masterwork from the inside, respond to it. Do the
@@ -251,6 +266,44 @@ your response engages with what your master was really doing.
 **Document everything here — especially the storyboard and video. Photos of the
 prototype are great too.**
 
+**Draft Story Board**
+
+<img width="250" height="400" alt="9d93c505890a3ca5492546ce81e82ddc" src="https://github.com/user-attachments/assets/e55ad443-a154-489a-8396-4f90df8c2e67" />
+
+<img width="250" height="400" alt="42c3e3bfb4431821cb0dc05a8807b02d" src="https://github.com/user-attachments/assets/39018998-4928-4395-9fb2-47c252659198" />
+
+<img width="250" height="400" alt="bd4cd6b94e206751493d573a910c7287" src="https://github.com/user-attachments/assets/2b11dcf8-79a6-4793-a1d0-3174605d62f0" />
+
+**Prototype**
+
+<img width="400" height="500" alt="d3735ff8958fd5c5d46fdf18aa5dcaee" src="https://github.com/user-attachments/assets/285a0de1-3829-4cd2-a950-a546845d9998" />
+
+
+
+
+
+**Iterated Storyboard**
+
+[Iterated Storyboard.pdf](https://github.com/user-attachments/files/31849081/Iterated.Storyboard.pdf)
+
+**Iterated Videos**
+
+Interaction #1: https://youtu.be/S6d3qoISiT4?si=X60Zh8jUSmGD8k_C
+
+Interaction #2: https://youtu.be/dKAxOEVHbwo?si=rITizXGZKRuXJ1i_
+
+Interaction #3: https://youtu.be/eIBzgmAFHv8?si=BNJSpauGhBa9e4PF
+
+**Reflection**
+When we were introduced to the lab assignment, we weren't quite sure what to do. We didn't fully understand the problem statement or its purpose at first. The piece we were assigned was "The Traffic Light." It seemed too trivial to simply simulate how one traffic light works — and that was exactly the point. We weren't supposed to simulate how it works, but rather how various users would interact with it. We didn't grasp that distinction at the time.
+
+We downloaded a traffic light simulator from the app store, used it to simulate a traffic light, and acted out a very basic interaction: one traffic light, one user, one behavior — the lawful driver. When the light is red, the driver stops; yellow, the driver gets ready; green, the driver goes. We recorded this for our video.
+
+The following week, when we showed it to our peers, they said exactly what we'd been thinking ourselves: it was too trivial. By contrast, the group assigned the Rain Room piece had identified a clear opposition at the core of their piece — wherever movement is detected, rain does not fall — and abstracted it using video editing software. While our representation was obvious and literal, theirs was abstracted to the point that you couldn't guess the original piece just by watching their video.
+
+We concluded that we needed to meet in the middle: more creative and more abstract, without losing clarity. So we developed more elaborate interactions involving multiple traffic lights and several cases: a successful interaction (all lawful drivers, traffic lights operating normally), an unlawful driver, and a scenario where the traffic lights stop working entirely (say, due to a power outage). We also planned a stronger prototype to better showcase our creativity and craftsmanship.
+
+Overall, actually completing the assignment reinforced our understanding of it, and we enjoyed the hands-on process.
 ---
 
 
